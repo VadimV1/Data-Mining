@@ -1,0 +1,1 @@
+In this repository I experiment with coneceps and ideas of data mining and its various techniques based on the book of "Data Mining Concepts and Techniques" Fourth edition by Jiawei Han, Jian Pei, Hanghang Tong
